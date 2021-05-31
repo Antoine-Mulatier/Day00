@@ -1,0 +1,1000 @@
+  325  ../
+  326  cd ../
+  327  clear
+  328  sudo apt-get install cowsay
+  329  cowsay Hello
+  330  cowsay -e ^^ hello
+  331  cowsay -f tux Tux is me!
+  332  cowsay tux
+  333  cowsay -f tux
+  334  cd Bureau
+  335  touch test.txt
+  336  cd
+  337  apt-get install sl
+  338  nano test.txt
+  339  cd test.txt
+  340  cd Bureau
+  341  cd test.txt
+  342  cd
+  343  ls -l
+  344  cd Bureau
+  345  ls -l
+  346  ls -l test.txt
+  347  clear
+  348  mkdir dossier1/dossier2
+  349  mkdir -p dossier1/dossier2
+  350  clear
+  351  cd
+  352  apt-get update
+  353  sudo apt-get update
+  354  clear
+  355  sudo apt-get install zsh
+  356  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  357  ls
+  358  nano .zshrc
+  359  zsh
+  360  pwd
+  361  cd Bureau
+  362  pwd
+  363  ls
+  364  cd html
+  365  ls
+  366  git
+  367  git init
+  368  ls .git
+  369  ls
+  370  git status
+  371  git add --all
+  372  git status
+  373  git commit -m "first commit"
+  374  git config user.name "AdamAgoune"
+  375  git config user.email "macamacadam@outlook.fr"
+  376  git commit -m "first commit"
+  377  git status
+  378  git remote
+  379  git remote add origin https://github.com/AdamAgoune/test-git.git
+  380  git remote
+  381  git push origin master
+  382  git status
+  383  git init
+  384  pwd
+  385  ls
+  386  cd Bureau
+  387  ls
+  388  cd Validationjs
+  389  git init
+  390  git status
+  391  git add --all
+  392  git statu
+  393  git status
+  394  git commit -m "validation1"
+  395  git remote add origin https://github.com/AdamAgoune/validationdwm
+  396  git push -u master
+  397  git push -u origin master
+  398  mkdir script.ssh
+  399  ls
+  400  cd Bureau
+  401  ls
+  402  mkdir script.ssh
+  403  ls
+  404  cd script.ssh
+  405  nano script.ssh
+  406  cd Bureau
+  407  ls
+  408  nano Vagrantfile
+  409  nano script.ssh
+  410  nano script2.ssh
+  411  nano Vagrantfile
+  412  nano script2.ssh
+  413  cd Bureau
+  414  ls
+  415  touc script2.ssh
+  416  touch script2.ssh
+  417  nano script2.ssh
+  418  vagrant.ssh
+  419  script2.ssh
+  420  ./script2.ssh
+  421  chmod 777
+  422  chmod 77 script2.ssh
+  423  ./script2.ssh
+  424  chmod 777 script2.ssh
+  425  ./script2.ssh
+  426  nano Vagrantfile
+  427  nano script2.ssh
+  428  ./script2.ssh
+  429  ls
+  430  cd Bureau
+  431  ls
+  432  nano script.ssh
+  433  vagrant init
+  434  ls
+  435  nano Vagrantfile
+  436  vagrant init
+  437  nano Vagrantfile
+  438  ./script2.ssh
+  439  ./script2.ssh
+  440  vagrant init
+  441  nano Vagrantfile
+  442  ls
+  443  cd Bureau
+  444  ls
+  445  nano script2.ssh
+  446  ./script2.ssh
+  447  nano script2.ssh
+  448  ./script2.ssh
+  449  nano script2.ssh
+  450  ./script2.ssh
+  451  cd Bureau
+  452  ls
+  453  cd PHP
+  454  vagrant init unbuntu/xenial64
+  455  sudo nano Vagrantfile
+  456  vagrant up
+  457  sudo nano Vagrantfile
+  458  vagrant up
+  459  vagrant ssh
+  460  nano Vagrantfile 
+  461  vagrant reload
+  462  vagant ssh
+  463  vagrant ssh
+  464  pwd
+  465  cd Bureau
+  466  ls
+  467  nano script2.sh
+  468  ./script2.sh
+  469  nano script2.sh
+  470  ./script2.sh
+  471  nano script2.sh
+  472  ./script2.sh
+  473  exit
+  474  ./script2.sh
+  475  cd Bureau
+  476  ./script2.sh
+  477  nano script2.sh
+  478  cd Bureau
+  479  ls
+  480  nano script2.sh
+  481  ./script2.sh
+  482  nano script2.sh
+  483  ./script2.sh
+  484  nano script2.sh
+  485  ./script2.sh
+  486  nano script2.sh
+  487  ./script2.sh
+  488  nano script2.sh
+  489  ./script2.sh
+  490  vagrant init
+  491  vagrant up
+  492  ls
+  493  cd Bureau
+  494  cd PHP
+  495  vagrant up
+  496  vagrant ssh
+  497  vagrant up
+  498  vagrant ssh
+  499  ls
+  500  vagrant up
+  501  cd Bureau
+  502  cd PHP
+  503  vagrant up
+  504  vagrant ssh
+  505  cd Bureau
+  506  ls
+  507  nano script2.sh
+  508  ./script2.sh
+  509  nano script2.sh
+  510  cd Bureau
+  511  ls
+  512  nano script2.sh
+  513  ./script.sh
+  514  ./script2.sh
+  515  cd Bureau
+  516  nano script2.sh
+  517  ./script2.sh
+  518  cd Bureau
+  519  nano script2.sh
+  520  cd Bureau
+  521  ls
+  522  cd PHP
+  523  ls
+  524  vagrant up
+  525  vagrant ssh
+  526  cd ..
+  527  ls
+  528  cd Eval PHP
+  529  cd EvalPHP
+  530  vagrant init
+  531  nano Vagrantfile
+  532  vagrant up
+  533  nano Vagrantfile
+  534  vagrant up
+  535  vagrant ssh
+  536  nano Vagrantfile
+  537  vagrant up
+  538  nano Vagrantfile
+  539  vagrant ssh
+  540  nano Vagrantfile
+  541  vagrant reload
+  542  vagrant ssh
+  543  nano Vagrantfile
+  544  vagrant reload
+  545  vagrant up
+  546  vagrant ssh
+  547  ls
+  548  cd Bureau
+  549  ls
+  550  cd EvalPHP
+  551  ls
+  552  vagrant init
+  553  nano Vagrantfile
+  554  vagrant up
+  555  vagrant ssh
+  556  vagrant destroy
+  557  ls
+  558  vagrant init
+  559  nano Vagrantfile
+  560  vagrant up
+  561  nano Vagrantfile
+  562  vagrant ssh
+  563  ls
+  564  vagrant ssh
+  565  nano Vagrantfile
+  566  vagrant reload
+  567  vagrant ssh
+  568  git
+  569  git init
+  570  git status
+  571  git add--all
+  572  git add --all
+  573  git status
+  574  git commit -m "php"
+  575  git remote add origin https://https://github.com/AdamAgoune/php
+  576  git push-u origin master
+  577  git push -u origin master
+  578  git remote add origin https://https://github.com/AdamAgoune/php.git
+  579  git push -u origin master
+  580  P$ ^V
+  581  git remote add origin https://github.com/AdamAgoune/php.git
+  582  git push origin master
+  583  git status
+  584  ls
+  585  git add--all
+  586  git add --all
+  587  git status
+  588  git push -u origin master
+  589  git remote add origin https://github.com/AdamAgoune/php.git
+  590  git push -u origin master
+  591  git status
+  592  git remote add origin github.com/AdamAgoune/php.git
+  593  git push -u origin master
+  594  git remote add origin https://github.com/AdamAgoune/php.git
+  595  git push -u origin master
+  596  git status
+  597  git commint -m "first commit"
+  598  git commit -m "first commit"
+  599  git push -u origin master
+  600  git remote add origin https://github.com/AdamAgoune/php.git
+  601  git remote rm origin
+  602  git remote
+  603  git remote add origin https://github.com/AdamAgoune/php.git
+  604  git status
+  605  git push origin master
+  606  ls
+  607  cd Bureau
+  608  ls
+  609  cd JMerise.jar
+  610  Java -jar JMerise.jar
+  611  java -jar JMerise.jar
+  612  cd bureau
+  613  cd Bureau
+  614  ls
+  615  nano script2.sh
+  616  ./script2.ssh
+  617  ./script2.sh
+  618  nano script2.sh
+  619  cd Bureau
+  620  java -jar JMerise.jar
+  621  bg
+  622  sudo mysql -u root
+  623  shutdown
+  624  java -jar JMerise.jar
+  625  cd bureau
+  626  cd Bureau
+  627  java -jar JMerise.jar
+  628  netstat -tulpn
+  629  mysql> create database apprenants;
+  630  Query OK, 1 row affected (0.00 sec)
+  631  ls
+  632  cd Téléchargements
+  633  ls
+  634  cd apache-tomcat-9.0.27/bin
+  635  ./startup.sh
+  636  cd ..
+  637  ls
+  638  cd webapps
+  639  java -jar JMerise.jar
+  640  cd Bureau
+  641  java -jar JMerise.jar
+  642  ls
+  643  cd Bureau
+  644  ls
+  645  cd Evalajax
+  646  git
+  647  git init
+  648  git add --all
+  649  git status
+  650  git remote add origin https://github.com/AdamAgoune/Evalajax.git
+  651  git push origin master
+  652  git commit -m
+  653  git status
+  654  git remote add origin https://github.com/AdamAgoune/Evalajax.git
+  655  git push origin master
+  656  git remote
+  657  git remote add origin https://github.com/AdamAgoune/Evalajax.git
+  658  git push origin master
+  659  git remote
+  660  git push -u origin master
+  661  git commit -m "ajax"
+  662  git remote add origin https://github.com/AdamAgoune/Evalajax.git
+  663  git push -u origin master
+  664  cd bureau
+  665  ls
+  666  cd Bureau
+  667  ls
+  668  cd VM
+  669  ls
+  670  nano Vagrantfile
+  671  cd ..
+  672  ls
+  673  mkdir PDO
+  674  cd PDO
+  675  vagrant init
+  676  nano Vagrantfile
+  677  vagrant up
+  678  vagrant ssh
+  679  vagrant ssh-config
+  680  vagrant ssh
+  681  cd /rootg/
+  682  cd /root/g/
+  683  sudo su
+  684  /usr/bin/python3 /home/apprenant/Bureau/g/script.py
+  685  cleatt
+  686  clear
+  687  /usr/bin/python3 /home/apprenant/Bureau/g/script.py
+  688  /usr/bin/python3 /home/apprenant/Bureau/g/script.py > bin.txt
+  689  cp bin.txt /home/apprenant/Bureau/g/
+  690  /usr/bin/python3 /home/apprenant/Bureau/g/script.py
+  691  /usr/bin/python3 /home/apprenant/Bureau/g/script.py > bint.txt
+  692  /usr/bin/python3 /home/apprenant/Bureau/g/script.py > bin.txt
+  693  /usr/bin/python3 /home/apprenant/Bureau/g/script.py
+  694  cd g
+  695  ll
+  696  cd Bureau/
+  697  cd g/
+  698  ll
+  699  cat sec.txt | grep -o '.$'
+  700  cat sec.txt | grep -o '..$'
+  701  cat sec.txt | grep -o '..$' > diff.txt
+  702  cat diff
+  703  cat diff.txt 
+  704  cat sec.txt | grep -o '..$' > diff.txt
+  705  cat diff.txt 
+  706  cat sec.txt 
+  707  cat sec.txt | grep -o '..$' > diff.txt
+  708  cat diff.txt 
+  709  cat sec.txt | grep -o '..$' > diff.txt
+  710  cat diff.txt 
+  711  ping 8.8.8.8
+  712  cd g/
+  713  ll
+  714  cat logs | grep [
+  715  cat logs | grep 2015
+  716  cat logs.txt | grep 2015
+  717  cat logs.txt | grep -o -P '.{0,0}2015.{0,8}' 
+  718  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' 
+  719  cat logs.txt | grep -o -P '.{0,-4}2015.{0,10}' 
+  720  cat logs.txt | grep -o -P '.{3,0}2015.{0,10}' 
+  721  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' 
+  722  cat logs.txt | grep -o -P '.{0,0}5.{0,10}' 
+  723  cat logs.txt | grep -o -P '.{0,0}2005.{0,10}' 
+  724  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' 
+  725  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' | grep -o '.........$'
+  726  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' 
+  727  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' | grep -o '.........$'
+  728  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' | grep -o '..$'
+  729  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' | grep -o '...$'
+  730  cat logs.txt | grep -o -P '.{0,0}2015.{0,10}' | grep -o '...$' > sec.txt
+  731  /usr/bin/python3 /home/apprenant/Bureau/g/script.py
+  732  n = int('0b110100001100101011011000110110001101111', 2)
+  733  >>> n.to_bytes((n.bit_length() + 7) // 8, 'big').decode()
+  734  'hello'/usr/bin/python3 /home/apprenant/Bureau/g/script.py
+  735  ssh -p 2222 app-systeme-ch13@challenge02.root-me.org 
+  736  wine 
+  737  /usr/bin/python3 /home/apprenant/Bureau/g/script.py
+  738  cd '/home/apprenant/Bureau/g' 
+  739  ll
+  740  python3 script.py 
+  741  git clone https://github.com/s0md3v/Hash-Buster
+  742  cd Hash-Buster/
+  743  ll
+  744  chmod 777 hash.py 
+  745  ll
+  746  ./hash.py -s grUWD8EZgBhBpc4nTSAS
+  747  echo grUWD8EZgBhBpc4nTSAS | md5sum
+  748  python3 script.py 
+  749  cd ..
+  750  python3 script.py 
+  751  touch scripty.py
+  752  ./scripty.py
+  753  chmod 777 scripty.py 
+  754  ./scripty.py
+  755  echo 031chrystelle.allais@pole-emploi.net > poleemploimail.txt
+  756  cat poleemploimail.txt 
+  757  ll
+  758  cat ch8.ppm 
+  759  ll
+  760  Hash-Buster/
+  761  cd Hash-Buster/
+  762  ./hash.py -s EPCQFBXKWURQCTXOIPMNV
+  763  cd ../
+  764  ll
+  765  cmod 777 ch8.ppm 
+  766  ll
+  767  sudo cmod 777 ch8.ppm 
+  768  sudo chmod 777 ch8.ppm 
+  769  ll
+  770  strings ch8.ppm 
+  771  cat ch8.ppm 
+  772  strings ch8.ppm 
+  773  fgrep -o f  | wc -l
+  774  cat ch8.ppm > ch8.txt
+  775  fgrep -o f ch8.txt | wc -l
+  776  fgrep -o ' ' ch8.txt | wc -l
+  777  fgrep -o e ch8.txt | wc -l
+  778  tr -cd < ch8.txt | wc -c
+  779  grep -c 'e' ch8.txt 
+  780  cat ch8.txt 
+  781  clear
+  782  grep -c ' ' ch8.txt 
+  783  cat ch8.txt 
+  784  cat ch8.ppm > ch8.txt
+  785  cat ch8.jpg 
+  786  foremost
+  787  exiftool
+  788  sudo apt install libimage-exiftool-perl
+  789  exiftool ch8.ppm 
+  790  apt-get install exiv2
+  791  sudo apt-get install exiv2
+  792  apt binwalk
+  793  apt-get install binwalk
+  794  sudo apt-get install binwalk
+  795  gem install zsteg
+  796  sudo gem install zsteg
+  797  zsteg -a ch8.ppm 
+  798  sudo git clone https://github.com/eugenekolo/sec-tools.git
+  799  ll
+  800  cd sec-tools/
+  801  ll
+  802  cd stego/
+  803  ll
+  804  cd stegsolve/
+  805  ll
+  806  cd stegsolve/
+  807  ll
+  808  chmod 777 stegsolve*
+  809  sudo chmod 777 stegsolve*
+  810  ll
+  811  java -jar stegsolve.jar 
+  812  cd ../../../../
+  813  ll
+  814  cat ch8.ppm 
+  815  git clone https://github.com/nodesocket/cryptr.git
+  816  cd cryptr/
+  817  ll
+  818  cryptr.bash
+  819  ./cryptr.bash
+  820  /usr/bin/python3 /home/apprenant/Bureau/g/scripty.py
+  821  cd /home/apprenant/Bureau/g/
+  822  git clone https://bitbucket.org/garronde/it-akademy_perso
+  823  ll
+  824  cd it-akademy_perso/
+  825  ll
+  826  cd 00
+  827  cd 00\ Recherche\ de\ Stage/
+  828  ll
+  829  cat Demarches.xlsx 
+  830  ll
+  831  strings Demarches.xlsx 
+  832  cd ..
+  833  git status
+  834  nano .gitignore 
+  835  git add .gitignore 
+  836  git status
+  837  git commit -m "adding .~ to git ignore"
+  838  git status
+  839  git add 00\ Recherche\ de\ Stage/CV*
+  840  git status
+  841  git commit -m "adding CV pdf + plain text"
+  842  git status
+  843  git add 00\ Recherche\ de\ Stage/Misc/*
+  844  git status
+  845  git commit -m "Docs Sodifrance"
+  846  git status
+  847  git push
+  848  git status
+  849  git add *
+  850  git status
+  851  git commit -m "Edit Demarches stages xsl"
+  852  git push
+  853  cd /home/apprenant/Bureau/
+  854  cd g/
+  855  cd it-akademy_perso/
+  856  git status
+  857  git pull
+  858  ll
+  859  git status
+  860  git log
+  861  ll
+  862  cd /home/apprenant/Bureau/g/
+  863  git status
+  864  cd it-akademy_perso/
+  865  git status
+  866  git add *
+  867  git commit -m "adding Cap LM"
+  868  cd /home/apprenant/Bureau/g/
+  869  git clone http://bitbucket.org/garronde/it-akademy_perso
+  870  ll
+  871  cd it-akademy_perso/
+  872  ll
+  873  git status
+  874  git add 06\ Normes\ Certification\ Legislations\ /
+  875  git status
+  876  git commit -c "adding lecture supports in normes certif legi"
+  877  git commit -m "adding lecture supports in normes certif legi"
+  878  git push
+  879  ll
+  880  python
+  881  ll
+  882  cd ..
+  883  ll
+  884  node test.js 
+  885  sudo apt install nodejs
+  886  ll
+  887  node test.js 
+  888  ll
+  889  cd /home/apprenant/Bureau/g/it-akademy_perso/
+  890  git status
+  891  git add tmp/
+  892  git status
+  893  git commit -m "adding tmp folder"
+  894  git push
+  895  cd ../../
+  896  cd ../Téléchargements/
+  897  ll
+  898  cat ch7.
+  899  cat ch7.bin
+  900  rm ch7.pcap 
+  901  cat ch7.bin
+  902  hydra
+  903  sudo apt install hydra
+  904  virtualbox
+  905  cd Bureau
+  906  mkdir vm/data
+  907  mkdir -p vm/data
+  908  cd vm
+  909  vagrant init
+  910  nano Vagrantfile
+  911  vagrant up
+  912  sudo apt update
+  913  sudo apt install apache2 mysql-server
+  914  sudo apt-add-repository ppa:ondrej/php
+  915  sudo apt update
+  916  sudo apt install php7.4
+  917  sudo nano /etc/php/7.4/apache2/php.ini
+  918  sudo  service apache2 restart
+  919  vagrant ssh
+  920  nano Vagrantfile
+  921  vagrant reload
+  922  vagrant ssh
+  923  sudo nano ~/ssh/known_hosts
+  924  sudo nano ~/.ssh/known_hosts
+  925  vagrant ssh
+  926  vagrant reload
+  927  vagrant ssh
+  928  vagrant reload
+  929  vagrant ssh
+  930  virtualbox
+  931  cd
+  932  cd Bureau
+  933  mkdir -p laravel/data
+  934  mkdir laravel
+  935  cd laravel
+  936  mkdir laravel
+  937  cd laravel
+  938  mkdir data
+  939  vagrant init
+  940  nano Vagrantfile
+  941  vagrant up
+  942  nano Vagrantfile
+  943  vagrant up
+  944  nano Vagrantfile
+  945  vagrant up
+  946  nano Vagrantfile
+  947  vagrant init
+  948  nano Vagrantfile
+  949  vagrant up
+  950  nano Vagrantfile
+  951  vagrant up
+  952  vagrant ssh
+  953  sudo nano ~/.ssh/known_hosts
+  954  vagrant ssh
+  955  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  956  php -r "if (hash_file('sha384', 'composer-setup.php') === 'baf1608c33254d00611ac1705c1d9958c817a1a33bce370c0595974b342601bd80b92a3f46067da89e3b06bff421f182') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  957  php composer-setup.php
+  958  php -r "unlink('composer-setup.php');"
+  959  vagrant reload
+  960  vagrant ssh
+  961  nano Vagrantfile
+  962  vagrant reload
+  963  nano Vagrantfile
+  964  vagrant reload
+  965  vagrant ssh
+  966  cd Bureau
+  967  cd
+  968  cd Bureau
+  969  mkdir eval
+  970  cd eval
+  971  mkdir data
+  972  vagrant init
+  973  nano Vagrantfile
+  974  vagrant up
+  975  vagrant ssh
+  976  sudo nano ~/.ssh/known_hosts
+  977  vagrant ssh
+  978  git init
+  979  git status
+  980  git add --all
+  981  git status
+  982  git config user.name "benPerus"
+  983  git config user.email "ben.perus@gmail.com"
+  984  git commit "first commit"
+  985  git commit -m "first commit"
+  986  git status
+  987  git remote
+  988  git remote add origin https://github.com/benPerus/laravel.git
+  989  git remote
+  990  git push origin master
+  991  cd Bureau
+  992  mkdir -p VM/data
+  993  cd VM
+  994  vagrant init
+  995  nano Vagrantfile
+  996  vagrant up
+  997  vagrant ssh
+  998  vagrant destroy
+  999  vagrant init laravel/homestead
+ 1000  cd laravel
+ 1001  cd ..
+ 1002  cd laravel
+ 1003  vagrant init laravel/homestead
+ 1004  mkdir data
+ 1005  nano Vagrantfile
+ 1006  vagrant up
+ 1007  vagrant -v
+ 1008  sudo apt remove vagrant
+ 1009  cd ..
+ 1010  vagrant -v
+ 1011  mkdir -p Laravel/data
+ 1012  cd Laravel
+ 1013  vagrant init laravel/homestead
+ 1014  nano Vagrantfile
+ 1015  vagrant up
+ 1016  vagrant ssh
+ 1017  vagrant reload
+ 1018  vagrant ssh
+ 1019  vagrant -v
+ 1020  vagrant ssh
+ 1021  vagrant up
+ 1022  vagrant ssh
+ 1023  vagrant halt
+ 1024  vagrant destroy
+ 1025  cd ..
+ 1026  mkdir -p vm/data
+ 1027  cd vm
+ 1028  vagrant init
+ 1029  nano Vagrantfile
+ 1030  vagrant up
+ 1031  vagrant ssh
+ 1032  sudo nano ~/.ssh/known_hosts
+ 1033  vagrant ssh
+ 1034  mkdir front
+ 1035  ls
+ 1036  vagrant ssh
+ 1037  cd data
+ 1038  git init
+ 1039  git status
+ 1040  git add --all
+ 1041  git status
+ 1042  git config user.name "benPerus"
+ 1043  git config user.email "ben.perus@gmail.com"
+ 1044  git commit -m "first commit"
+ 1045  git status
+ 1046  git remote
+ 1047  git remote add origin https://github.com/benPerus/api_laravel.git
+ 1048  git push origin master
+ 1049  vagrant up
+ 1050  vagrant ssh
+ 1051  vagrant ssh-config
+ 1052  vagrant ssh
+ 1053  cd data
+ 1054  ls
+ 1055  git init
+ 1056  git status
+ 1057  git add --all
+ 1058  git status
+ 1059  git config user.name "benPerus"
+ 1060  git config user.email "ben.perus@gmail.com"
+ 1061  git commit -m "first commit"
+ 1062  git status
+ 1063  git remote
+ 1064  git remote add origin https://github.com/benPerus/nodeJS.git
+ 1065  git push origin master
+ 1066  cd Bureau
+ 1067  mkdir NodeJS
+ 1068  cd NodeJS/
+ 1069  vagrant init
+ 1070  nano Vagrantfile 
+ 1071  vagrant up
+ 1072  mkdir data
+ 1073  vagrant up
+ 1074  nano Vagrantfile 
+ 1075  vagrant reload
+ 1076  vagrant ssh
+ 1077  ssh -config
+ 1078  vagrant ssh
+ 1079  vagrant ssh -config
+ 1080  vagrant ssh-config
+ 1081  vagrant ssh
+ 1082  vagrant ssh-config
+ 1083  vagrant ssh
+ 1084  cd ..
+ 1085  mkdir nodeEval
+ 1086  cd nodeEval/
+ 1087  mkdir data
+ 1088  vagrant init
+ 1089  nano Vagrantfile 
+ 1090  vagrant up
+ 1091  vagrant ssh
+ 1092  vagrant ssh-config
+ 1093  vagrant ssh
+ 1094  nano Vagrantfile 
+ 1095  vagrant ssh
+ 1096  git clone https://bitbucket.org/garronde/it-akademy
+ 1097  ls
+ 1098  cd it-akademy/
+ 1099  ls
+ 1100  cd 00
+ 1101  cd 00\ Recherche\ de\ Stage/
+ 1102  nano conv orange.txt
+ 1103  cat conv 
+ 1104  rm conv convorange.txt
+ 1105  ls
+ 1106  nano convorange.txt
+ 1107  ls
+ 1108  cd..
+ 1109  cd ..
+ 1110  ls
+ 1111  git status
+ 1112  git add *
+ 1113  git commit -m 'adding orange mail conv'
+ 1114  git push
+ 1115  git status
+ 1116  git log
+ 1117  git status
+ 1118  git rm Misc/2019-10-21\ 09.52.03.jpg 
+ 1119  git rm Misc/2019-10-28 08.58.09.jpg
+ 1120  git rm Misc/µ.jpg
+ 1121  git rm Misc/*.jpg
+ 1122  git status
+ 1123  git rm Misc/*
+ 1124  git status
+ 1125  git rm Misc/*.pdf
+ 1126  git rm Misc/2019-10-28 08.58.09.jpg
+ 1127  git rm  "Misc/ITA-Le R\303\251pertoire National des Certifications Professionnelles (RNCP) (R\303\251sum\303\251 descriptif de la certification) - Commission nationale de la certification professionnelle.pdf"
+ 1128  git rm  Misc/ITA-Le R\303\251pertoire National des Certifications Professionnelles (RNCP) (R\303\251sum\303\251 descriptif de la certification) - Commission nationale de la certification professionnelle.pdf
+ 1129  git rm Misc/ITA-*.pdf
+ 1130  git status
+ 1131  git commit -m 'removing misc folder to be renammed to admin'
+ 1132  git status
+ 1133  git add Administratif/*
+ 1134  git status
+ 1135  git commit -m 'adding admin folder'
+ 1136  git status
+ 1137  git add Misc/*
+ 1138  git commit -m 'adding Misc folder'
+ 1139  git push
+ 1140  git status
+ 1141  git add *
+ 1142  git status
+ 1143  git commit -m 'adding PSSI folder'
+ 1144  git push
+ 1145  volatility
+ 1146  sudo apt install volatility
+ 1147  git status
+ 1148  git add *
+ 1149  git commit -m 'adding ISO 27000'
+ 1150  git push
+ 1151  git status
+ 1152  cd it-akademy/
+ 1153  ll
+ 1154  git status
+ 1155  git add *
+ 1156  git status
+ 1157  git commit -m 'adding flags'
+ 1158  git status
+ 1159  git push
+ 1160  ll
+ 1161  cd it-akademy/
+ 1162  ll
+ 1163  git status
+ 1164  git add *
+ 1165  git status
+ 1166  git commit -m 'adding docs in PSSI'
+ 1167  git push
+ 1168  git status
+ 1169  rm 10\ Politique\ de\ securite/Principes\ a\ garder.txt 
+ 1170  git status
+ 1171  git add *
+ 1172  git status
+ 1173  git commit -c 'more flags'
+ 1174  git push
+ 1175  git commit -m 'more flags'
+ 1176  git push
+ 1177  git status
+ 1178  git add Misc/*
+ 1179  git commit -m 'adding windows white paper'
+ 1180  git add Books/*
+ 1181  git commit -m 'Adding Books Novel Folder'
+ 1182  git push
+ 1183  git status
+ 1184  git log
+ 1185  l
+ 1186  sls
+ 1187  ls
+ 1188  ssss
+ 1189  ls
+ 1190  git status
+ 1191  cd it-akademy/
+ 1192  git status
+ 1193  git add 10\ Politique\ de\ securite/*
+ 1194  git status
+ 1195  git rm '10 Politique de securite/PSSI Worldline.pdf'
+ 1196  git rm '10 Politique de securite/PSSI-CNRS.pdf'
+ 1197  git rm '10 Politique de securite/PSSI_Amiens.pdf'
+ 1198  git rm '10 Politique de securite/Principes de Securite.pdf'
+ 1199  git rm '10 Politique de securite/pssie_anssi.pdf'
+ 1200  git status
+ 1201  git commit -m 'update PSSI supports'
+ 1202  git status
+ 1203  git add *
+ 1204  git status
+ 1205  git commit -m 'ajout modele fiche de stage'
+ 1206  git push
+ 1207  apt-get install remina
+ 1208  sudo apt-get install remina
+ 1209  sudo apt-get install remmina
+ 1210  remmina 109.0.194.86:8989
+ 1211  apt-get update remmina
+ 1212  apt-get update
+ 1213  sudo apt-get update
+ 1214  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+ 1215  sudo apt-get update
+ 1216  sudo apt-get install remmina remmina-plugin-rdp remmina-plugin-gnome libfreerdp-plugins-standard
+ 1217  apt delete remmina
+ 1218  apt remove remmina
+ 1219  sudo apt-get install remmina remmina-plugin-rdp remmina-plugin-vnc libfreerdp-plugins-standard 
+ 1220  sudo apt-get update remmina
+ 1221  sudo apt-get remmina
+ 1222  sudo apt-get install remmina
+ 1223  sudo apt-get install --only-upgrade remmina
+ 1224  sudo apt-get update
+ 1225  sudo apt-get update && apt-get upgrade remmina
+ 1226  sudo apt-get update && sudo apt-get upgrade remmina
+ 1227  ping 109.0.1.194
+ 1228  ls
+ 1229  ls -a
+ 1230  man ls
+ 1231  man mkdir
+ 1232  man cd
+ 1233  man .
+ 1234  man cd
+ 1235  cd
+ 1236  man mkdir
+ 1237  man man
+ 1238  pwd
+ 1239  ls
+ 1240  cd Documents
+ 1241  ls
+ 1242  git clone https://github.com/Antoine-Mulatier/Day00.git
+ 1243  ls
+ 1244  cd Day00
+ 1245  ls
+ 1246  git log
+ 1247  ls
+ 1248  mkdir ex02
+ 1249  git add .
+ 1250  git status
+ 1251  git commit
+ 1252  git commit -m "création ex02"
+ 1253  git push
+ 1254  git status
+ 1255  git log
+ 1256  git commit -m "création ex02"
+ 1257  git push
+ 1258  git log
+ 1259  git commit
+ 1260  git commit -m "création ex02"
+ 1261  man -m
+ 1262  man m
+ 1263  git log
+ 1264  git commit -m "création ex02"
+ 1265  ls
+ 1266  cd exo00
+ 1267  ls
+ 1268  cd ex00
+ 1269  ls
+ 1270  cd Planets
+ 1271  mkdir Real
+ 1272  mkdir StarWars
+ 1273  mkdir StarTrek
+ 1274  cd Real
+ 1275  mkdir Telluriques
+ 1276  mkdir Gazeuses
+ 1277  ls
+ 1278  cd ..
+ 1279  mkdir commands.txt
+ 1280  ls
+ 1281  man cat
+ 1282  cat > commands.txt
+ 1283  cd..
+ 1284  cd ..
+ 1285  cd Planets
+ 1286  mv Jupiter Real
+ 1287  mv Jupiter.jpg Real
+ 1288  history > commands.txt
+ 1289  mv Lune.jpg Real
+ 1290  mv Mercure.jpg Real
+ 1291  mv Neptune.jpg Real
+ 1292  mv Pluton.jpg Real
+ 1293  mv saturn.jpg Real
+ 1294  mv saturn.png Real
+ 1295  mv Terre.jpg Real
+ 1296  mv Uranus.jpg Real
+ 1297  mv Venus.jpg Real
+ 1298  mv mars.jpeg Real
+ 1299  mv Naboo.png StarWars
+ 1300  mv Tatooine.jpg StarWars
+ 1301  mv Mustafar.png StarWars
+ 1302  mv Vulcan.jpg StarTrek
+ 1303  mv Coruscant.jpg StarWars
+ 1304  mv Taris.png StarWars
+ 1305  mv Risa.jpg StarTrek
+ 1306  mv JanusVI.jpg StarTrek
+ 1307  mv Andoria.jpg Startrek
+ 1308  ls
+ 1309  cd Real
+ 1310  ls
+ 1311  mv Mercure.jpg Telluriques
+ 1312  mv Venus.jpg Telluriques
+ 1313  mv Terre.jpg Telluriques
+ 1314  mv mars.jpeg Telluriques
+ 1315  ls
+ 1316  mv Lune.jpg Telluriques
+ 1317  mv Jupiter Gazeuses
+ 1318  mv Jupiter.jpg Gazeuses
+ 1319  mv Neptune.jpg Gazeuses/
+ 1320  mv saturn.png Gazeuses/
+ 1321  mv Uranus.jpg Gazeuses/
+ 1322  ls
+ 1323  cd ..
+ 1324  history > commands.txt
